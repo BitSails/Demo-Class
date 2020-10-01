@@ -1,2 +1,2 @@
-# Demo-Class
+# Demo-Class. 
 A Simple C++ Class
